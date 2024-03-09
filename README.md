@@ -41,7 +41,7 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
   
 * Hardware Development
   * Schematic Design
-  * PCB design (still learning! I use KiCad)
+  * PCB design (still learning! I use EasyEda)
  
 * Electronic Equipment I know to use
   * 4-channel Oscilloscope
