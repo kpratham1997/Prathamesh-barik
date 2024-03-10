@@ -28,6 +28,7 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
   
 * Embedded Linux (which I am still learning)
 * Embedded library development
+* Development Board bring-up
 
 * RTOS
   * FreeRTOS
