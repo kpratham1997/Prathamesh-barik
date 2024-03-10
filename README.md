@@ -12,6 +12,12 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
 
 
 ## Technical Skills
+* Programming/Scripting languages I can speak
+  * C
+  * Python(Except the oops)
+  * Bash scripting
+  
+  
 * Wired Protocols
   * I2C (SL)
   * SPI (SL)
