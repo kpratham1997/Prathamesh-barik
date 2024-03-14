@@ -40,10 +40,11 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
   * FreeRTOS 
  
 * Microcontroller
-  * ESP32 (dual core MCU + WiFi and Bluetooth)
-  * ESP8266 (single core MCU + WiFi from Espressif) 
-  * STM32 F4 series 
-  * AVR MCU 
+  * ESP32 (dual core MCU + WiFi and Bluetooth) (Arduino IDE)
+  * ESP8266 (single core MCU + WiFi from Espressif) (Arduino IDE)
+  * STM32 F4 series (STM32Cube IDE)
+  * AVR MCU (makefile/tool chain using C)
+  * Raspberry pi (used with python)
   
 * Hardware Development
   * Schematic Design
