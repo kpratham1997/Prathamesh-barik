@@ -19,35 +19,35 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
   
   
 * Wired Protocols
-  * I2C (SL)
-  * SPI (SL)
-  * UART/USART (SL)
+  * I2C
+  * SPI 
+  * UART/USART 
 
 * Wireless Protocols
-  * WiFi (SL)
-  * Bluetooth Classic (SL)
-  * NFC/RFID (SL)
+  * WiFi (On Arduino IDE)
+  * Bluetooth Classic 
+  * NFC/RFID 
   
 * Network Protocols
-  * TCP/IP (SL)
-  * UDP/IP (SL)
+  * TCP/IP (Still Learning)
+  * UDP/IP (Still Learning)
   
 * Embedded Linux (which I am still learning)
 * Embedded library development
 * Development Board bring-up
 
 * RTOS
-  * FreeRTOS (SL)
+  * FreeRTOS 
  
 * Microcontroller
-  * ESP32 (dual core MCU + WiFi and Bluetooth) (SL)
-  * ESP8266 (single core MCU + WiFi from Espressif) (SL)
-  * STM32 F4 series (SL)
-  * AVR MCU (SL)
+  * ESP32 (dual core MCU + WiFi and Bluetooth)
+  * ESP8266 (single core MCU + WiFi from Espressif) 
+  * STM32 F4 series 
+  * AVR MCU 
   
 * Hardware Development
   * Schematic Design
-  * PCB design (still learning! I use EasyEda)
+  * PCB design (still learning! I use EasyEda and Eagle)
  
 * Electronic Equipment I know to use
   * 4-channel Oscilloscope
