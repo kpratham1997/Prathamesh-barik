@@ -29,10 +29,10 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
   * NFC/RFID 
   
 * Network Protocols
-  * TCP/IP (Still Learning)
-  * UDP/IP (Still Learning)
+  * TCP/IP (Yet to start)
+  * UDP/IP (Yet to start)
   
-* Embedded Linux (Still Learning)
+* Embedded Linux (Yet to Start)
 * Embedded library development
 * Development Board bring-up
 
