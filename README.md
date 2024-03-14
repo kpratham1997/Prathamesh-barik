@@ -37,7 +37,7 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
 * Development Board bring-up
 
 * RTOS
-  * FreeRTOS 
+  * FreeRTOS (CMSIS V1)
  
 * Microcontroller
   * ESP32 (dual core MCU + WiFi and Bluetooth) (Arduino IDE)
