@@ -8,7 +8,7 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
 
 * Jan 2024 - Now. @Ark infosolutions:- Debugged a few earlier projects till now and creating more.
 * Feb 2023 - Dec 2023. @Circuit digest:- Dived deep into embedded software and implemented multiple projects while doing my job.
-* Jun 2021 - Jan 2023. @Robu.in:- Implemented multiple projects (30+) based on Arduino, ESP32, ESP8266 and Rpi. Found that I want to do embedded software whole-heartedly.
+* Jun 2021 - Jan 2023. @Robu.in:- Implemented multiple projects (30+) based on Arduino, ESP32, ESP8266 and Rpi. Realized that I want to do embedded software whole-heartedly.
 
 
 ## Technical Skills
