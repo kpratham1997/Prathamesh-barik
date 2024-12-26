@@ -33,8 +33,8 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
   * UDP/IP (Yet to start)
   
 * Embedded Linux (Yet to Start)
-* Embedded library development
-* Development Board bring-up
+* Embedded library development (In process)
+* Development Board bring-up 
 
 * RTOS
   * FreeRTOS (CMSIS V1)
@@ -48,11 +48,11 @@ Hello ! I'm an embedded systems engineer with over two years of experience, spec
   
 * Hardware Development
   * Schematic Design
-  * PCB design (still learning! I use EasyEda and Eagle)
+  * PCB design (Single layer and double layer)
  
 * Electronic Equipment I know to use
   * 4-channel Oscilloscope
-  * Nice multimeter
+  * Multimeter
   * Logic Analyzer
 
 
